@@ -18,4 +18,4 @@ How i started:
 I used to play Prodigy (you may not know it) and i loved computers, My freind started asking me if i could make hacks for it, me being 8 i knew NOTHING about coding so i
 started looking into it and i made my forst prodigy hack.
 
-<a href="https://hits.sh/github.com/UsefullCoder/hits/"><img alt="Hits" src="https://hits.sh/github.com/UsefullCoder/hits.svg"/></a>
+<a href="https://hits.sh/github.com/UsefullCoder/Hits/"><img alt="Profile Veiws" src="https://hits.sh/github.com/UsefullCoder/Hits.svg"/></a>
