@@ -19,3 +19,9 @@ I used to play Prodigy (you may not know it) and i loved computers, My freind st
 started looking into it and i made my forst prodigy hack.
 
 <a href="https://hits.sh/github.com/UsefullCoder/Hits/"><img alt="Profile Veiws" src="https://Hits.sh/github.com/UsefullCoder/Hits.svg"/></a>
+
+![image](https://user-images.githubusercontent.com/125095252/218858083-878a5748-99bc-4e8e-a834-1cabfee6dc83.png)
+![image](https://user-images.githubusercontent.com/125095252/218858311-da3aaccc-3d52-4641-a318-4e0bea971206.png)
+![image](https://user-images.githubusercontent.com/125095252/218858499-e0b4be5f-c40b-4b47-ac07-d556bcbb3147.png)
+
+
