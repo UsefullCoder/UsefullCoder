@@ -4,14 +4,14 @@ I had an old Github account (It diddnt go so great).
 I know Js, Html, Css, and learning Python.
 
 My socials:
-Scratch- ProGithubCoder
+Scratch- ProGithubCoder,
 Reddit- Spooky_Ghost_Blooket
 
 What i like:
-Playing Blooket
-Coding on scratch
-Playing Gorilla Tag
-Coding
+Playing Blooket,
+Coding on scratch,
+Playing Gorilla Tag,
+Coding,
 Making Websites
 
 How i started:
