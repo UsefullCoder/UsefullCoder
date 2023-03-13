@@ -1,5 +1,4 @@
-Hi, im a 10 year old coder. 
-I was self tought and a little bit of help from my dad.
+Hi, i like to code and/or like to play games.
 I had an old Github account (It diddnt go so great).
 I know Js, Html, Css, and learning Python.
 
